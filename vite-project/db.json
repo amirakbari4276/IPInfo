@@ -1,0 +1,69 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Article Title 1",
+            "body": "This is the body of the first article.",
+            "author": "Author Name 1",
+            "img": "1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Article Title 2",
+            "body": "This is the body of the second article.",
+            "author": "Author Name 2",
+            "img": "2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Article Title 3",
+            "body": "This is the body of the third article.",
+            "author": "Author Name 3",
+            "img": "3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Article Title 4",
+            "body": "This is the body of the fourth article.",
+            "author": "Author Name 4",
+            "img": "4.jpg"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "The rafting trip in the turbulent waters suddenly halted with an unexpected brick wall.",
+            "post-id": 2
+        },
+        {
+            "id": 2,
+            "body": "He realized he had a sixth sense in that moment.",
+            "post-id": 2
+        },
+        {
+            "id": 3,
+            "body": "He discovered his sixth sense in that moment.",
+            "post-id": 3
+        },
+        {
+            "id": 4,
+            "body": "At that instant, he became aware of his sixth sense.",
+            "post-id": 4
+        },
+        {
+            "id": 5,
+            "body": "In that moment, he became conscious of his sixth sense.",
+            "post-id": 4
+        },
+        {
+            "id": 6,
+            "body": "He realized his sixth sense at that moment.",
+            "post-id": 3
+        },
+        {
+            "id": 7,
+            "body": "In that moment, he became aware of his sixth sense.",
+            "post-id": 1
+        }
+    ]
+}
